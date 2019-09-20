@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MealMaker</string>
+    <string name="action_settings">About</string>
+    <string name="ingredient_db">ingredient.db</string>
+    <string name="btn_text">GET RESULT</string>
+    <string name="dialog_your_ingredient">Your ingredient</string>
+    <string name="fab_add_ingredient">Add ingredient</string>
+    <string name="fab_instructions">Click here to add an ingredient</string>
+    <string name="builder_title">New ingredient</string>
+    <string name="ingredients_db">ingredients.db</string>
+    <string name="api_key">5a016fcbdc6cf78be06d009994fbe268</string>
+    <string name="api_id">68e785b1</string>
+    <string name="cannot_connect">Error: Cannot connect</string>
+    <string name="bullet">• </string>
+    <string name="details">MealMaker is a decision-making app that helps you choose
+        what your next meal will be based on what\'s in your fridge. Start by clicking
+        on the plus button and inputting the name of the ingredients you have. Then, we
+        will present you with a recipe that uses most, if not all, the ingredients you
+        provided. Bon appetit!
+    </string>
+    <string name="about_title">About</string>
+    <string name="new_ingredient">New ingredient</string>
+    <string name="no_results">No results</string>
+    <string name="get_recipe">GET RECIPE</string>
+
+</resources>

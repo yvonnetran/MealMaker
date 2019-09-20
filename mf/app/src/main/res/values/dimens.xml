@@ -1,0 +1,22 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="app_bar_height">100dp</dimen>
+
+    <!--ACTIVITY_MAIN : TEXT VIEW-->
+    <dimen name="text_view_width">265dp</dimen>
+    <dimen name="text_view_height">330dp</dimen>
+    <dimen name="text_view_margin_top">40dp</dimen>
+    <dimen name="text_view_margin_left">20dp</dimen>
+
+    <!--ACTIVITY_MAIN : BUTTON-->
+    <dimen name="btn_width">150dp</dimen>
+    <dimen name="btn_height">70dp</dimen>
+    <dimen name="btnAdd_margin_top">20dp</dimen>
+
+    <!--DIALOG_ADD-->
+    <dimen name="add_dialog_margin">20dp</dimen>
+
+    <!--INGREDIENT_ROW-->
+    <dimen name="row_cardview_margin_top">5dp</dimen>
+    <dimen name="row_cardview_elevation">4dp</dimen>
+</resources>
